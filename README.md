@@ -7,6 +7,6 @@ This is a simple little script for merging two PDFs. In particular, it's for peo
 Given these two PDF documents, this script will merge them into, with all the pages in the right order. Note that we assume that the even-numbered pages will be
 in reverse order.
 
+### Requirements
 
-### optfunc.py
-`optfunc.py` is not my work, it comes from Simon Willison: https://github.com/simonw/optfunc
+You'll need PyPDF, which is available via `pip` as well as `optfunc`, which you can get here: https://github.com/simonw/optfunc 

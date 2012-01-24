@@ -9,4 +9,4 @@ in reverse order.
 
 ### Requirements
 
-You'll need PyPDF, which is available via `pip` as well as `optfunc`, which you can get here: https://github.com/simonw/optfunc 
+You'll need PyPDF, which is available via `pip`. You'll also need `optfunc`, which you can get here: https://github.com/simonw/optfunc 
